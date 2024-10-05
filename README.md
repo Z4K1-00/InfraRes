@@ -1,0 +1,1 @@
+For this project, we will set up a network infrastructure and administer it. We will set up a virtual local area network (VLAN) and a layer 2 tunneling system to share a DHCP service. We will finalize the administration with the configuration of Internet access and the firewall.
